@@ -1,0 +1,43 @@
+ <div  class="card">
+        
+        <div class="icon50"><img id="icon1"  src="1.png" alt="">
+            <img id="icon10" src="10.png" alt=""></div>
+        <h2 class="card_h2">Web Design</h2>
+        <p class="card_h2" id="p-dash" >_  _  _</p>
+        <p class="card_h2" >Lorem ipsum dolor sit amet,Stet clita kasd  <br> lorem ipsum dolor sit amet. sed diam <br> eirmod tempor dolore.</p>
+        <input class="btn2" type="submit" value=" Know More "  >
+    </div>
+    <div class="card">
+        <div class="icon"><img id="icon2" src="2.png" alt="">
+            <img class="icon" id="icon20" src="20.png" alt=""></div>
+        <h2 class="card_h2">Graphics Design</h2>
+        <p class="card_h2"  >_  _  _</p>
+        <p class="card_h2">Lorem ipsum dolor sit amet,Stet clita kasd  <br> lorem ipsum dolor sit amet. sed diam <br> eirmod tempor dolore.</p>
+        <div> <input class="btn2" type="submit" value=" Know More "  > </div>
+    </div>
+    <div class="card">
+        <div class="icon"><img id="icon3" src="3.png" alt="">
+            <img class="icon" id="icon30" src="30.png" alt=""></div>
+        <h2class="card_h2">Web Developement</h2>
+        <p class="card_h2" >_  _  _</p>
+        <p class="card_h2">Lorem ipsum dolor sit amet,Stet clita kasd  <br> lorem ipsum dolor sit amet. sed diam <br> eirmod tempor dolore.</p>
+        <input class="btn2" type="submit" value=" Know More "  >
+    </div>
+    </section>
+    <section class="con-card">
+    <div class="card">
+        <div class="icon"><img class="icon1" src="4.png" alt="">
+            <img class="icon1" src="40.png" alt=""></div>
+        <h2 class="card_h2" >Application</h2>
+        <p  class="card_h2">_  _  _</p>
+        <p class="card_h2">Lorem ipsum dolor sit amet,Stet clita kasd  <br> lorem ipsum dolor sit amet. sed diam <br> eirmod tempor dolore.</p>
+        <input class="btn2" type="submit" value=" Know More "  >
+    </div>
+    <div class="card">
+        <div class="icon"><img class="icon"  id="icon5" src="5.png" alt="">
+            <img class="icon50"  id="icon50" src="50.png" alt=""></div>
+        <h2  class="card_h2">Analytical Abilities</h2>
+        <p   class="card_h2">_  _  _</p>
+        <p class="card_h2">Lorem ipsum dolor sit amet,Stet clita kasd  <br> lorem ipsum dolor sit amet. sed diam <br> eirmod tempor dolore.</p>
+        <input class="btn2" type="submit" value=" Know More "  >
+    </div>
